@@ -1,0 +1,15 @@
+{
+  "name": "bunnings-code-challenge",
+  "version": "1.0.0",
+  "description": "Bunnings Coding Skills Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified, its obvious this works so there is hardly enough code to justify tests TBH\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mark Horman",
+  "dependencies": {
+    "data-forge": "^1.8.17",
+    "data-forge-fs": "0.0.9"
+  }
+}
